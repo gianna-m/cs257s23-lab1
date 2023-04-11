@@ -15,3 +15,6 @@ Flag 3
 \n\n
 The FLAG on the FLAGpole waved proudly as the team raised the winning FLAG after their victory.
 \n\n
+Flag 7:
+dice
+\n\n
